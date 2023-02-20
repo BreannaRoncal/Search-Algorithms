@@ -1,6 +1,7 @@
 """
 Depth-First Search
     - Used to check if a path exists
+    - Use recursion and the call stack
 """
 
 def dfs(graph, current_vertex, target_value, visited=None):
